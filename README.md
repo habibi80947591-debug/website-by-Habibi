@@ -1,27 +1,40 @@
-# Recueil — React recreation
+RECUEIL — The Art of Fragrance
 
-A responsive React + Vite recreation inspired by https://recueil.framer.website/.
+An immersive digital fragrance experience where elegance meets modern web design.
 
-## Run locally
+Recueil is a fragrance-inspired website designed to express the art of scent through refined visuals, sophisticated typography, and fluid interactions. The experience combines minimalist aesthetics with atmospheric imagery to create an elegant digital presentation of fragrance and its character.
 
-```bash
-npm install
-npm run dev
-```
+✨ Highlights
 
-## Production build
+- Immersive Visual Design — A refined editorial layout complemented by atmospheric photography.
+- Fluid Motion & Interactions — Smooth transitions, elegant entrance effects, and interactive elements.
+- Fragrance Collection — A curated presentation of signature scents, their personalities, and distinctive notes.
+- Scent Exploration — An engaging visual journey through fragrance ingredients and compositions.
+- Responsive Experience — A flexible interface designed for desktop, tablet, and mobile screens.
+- Interactive Details — Thoughtfully designed navigation, expandable FAQs, and subtle hover effects.
 
-```bash
-npm run build
-```
+🛠️ Technology Stack
 
-Vercel settings: Framework Preset **Vite**, Build Command `npm run build`, Output Directory `dist`.
+- React.js
+- JavaScript (ES6+)
+- Vite
+- Framer Motion
+- Lucide React
+- CSS
 
-## Included
-- Responsive fragrance-brand landing page
-- React components, Framer Motion scroll reveals and ingredient-tab transitions
-- Hover effects, mobile navigation, accordion FAQ, smooth scrolling
-- Vercel SPA rewrite and `.gitignore`
-- Framer-hosted image assets from the referenced page
+🎨 Design Philosophy
 
-Note: this is an independent React recreation, not an exported Framer project. It approximates the visible page and interaction style; it cannot guarantee pixel-perfect layout or reproduce proprietary Framer CMS, checkout, and every original animation. Images are hotlinked from Framer's CDN, so internet access is required for them to load. The subscription CTA is a demo mail link, not a working payment system.
+The design emphasizes simplicity, atmosphere, and attention to detail. Carefully composed layouts, expressive imagery, and subtle animation work together to create a cohesive experience that feels modern, elegant, and memorable.
+
+🎯 Project Focus
+
+This project explores modern frontend development, reusable React components, responsive layouts, motion design, and the relationship between visual storytelling and user experience.
+
+👩‍💻 Created By
+
+HABIBI
+Frontend Developer | React.js | JavaScript | Tailwind CSS
+
+---
+
+Crafted with a passion for elegant design, interactive experiences, and modern web development.
